@@ -1,0 +1,23 @@
+
+body {
+    padding: 100px;
+    background-color: pink;
+    font-family: 'Franklin Gothic Medium';
+   
+    
+}
+
+h1 {
+    color: White;
+    font-size: 50px;
+    text-align: center;
+}
+
+.img1 {
+    float: left;
+}
+
+p {
+    font-size: 30px
+
+}
